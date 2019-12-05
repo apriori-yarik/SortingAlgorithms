@@ -1,3 +1,16 @@
+// C++ MergeSort Algorithm
+// -----------------------
+// Asymptotic runtime complexity:
+// Best case: O(n log n)
+// Average case: O(n log n)
+// Worst case: O(n log n)
+// -----------------------
+// Space: O(n)
+// -----------------------
+// STABLE
+// -----------------------
+// Resources: NEERC
+
 #include <bits/stdc++.h>
 
 using namespace std;
